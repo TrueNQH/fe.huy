@@ -1,0 +1,60 @@
+.img-slide {
+  width: 150px;
+}
+
+.tab-content {
+  width: 80%;
+  margin: 10px auto;
+ 
+}
+#img-avatar {
+  width: 200px;
+  height: 200px;
+  object-position: center;
+  object-fit: cover;
+
+}
+.detailProduct {
+  margin: 20px 10px;
+}
+
+.h-100 {
+  height: 500px !important;
+}
+.carousel-inner > .item > img  {
+  margin: 0 auto;
+  background-color: #cdcdcd;
+  object-fit: cover;
+  
+}
+.table td, .table th {
+  border-collapse: collapse; /* Gộp các đường viền của các ô lại thành một đường viền duy nhất */
+  border: none !important;
+}
+.card {
+  --bs-card-border-color: none;
+}
+.table {
+  border-collapse: collapse; /* Gộp các đường viền của các ô lại thành một đường viền duy nhất */
+  border: none !important; /* Ẩn đường viền mặc định của bảng */
+}
+
+table>tbody>tr> th, td {
+  border: none !important; /* Ẩn đường viền của các ô */
+  padding: 8px; /* Thêm khoảng cách giữa các ô */
+}
+
+#map {
+  width: 100%;
+  height: 70vh;
+}
+.infobox {
+  max-width: 200px;
+  padding: 10px;
+  background-color: white;
+  border: 1px solid #ccc;
+}
+.imgMore {
+  width: 100%;
+  height: 250px;
+}
